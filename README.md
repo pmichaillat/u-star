@@ -1,6 +1,6 @@
 # u* = √uv : The Full-Employment Rate of Unemployment in the United States - Code and Data
 
-This repository contains the code and data accompanying the paper "u* = √uv: The Full-Employment Rate of Unemployment in the United States", written by [Pascal Michaillat](https://pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and forthcoming in the Fall 2024 issue of the Brookings Papers on Economic Activity.
+This repository contains the code and data accompanying the paper "u* = √uv: The Full-Employment Rate of Unemployment in the United States", written by [Pascal Michaillat](https://pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Brookings Papers on Economic Activity](https://doi.org/10.1353/eca.2024.a964373) in Fall 2024.
 
 ## Paper webpage
 
